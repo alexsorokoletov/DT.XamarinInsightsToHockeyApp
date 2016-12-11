@@ -1,4 +1,6 @@
 # DT.XamarinInsightsToHockeyApp
+[![NuGet Badge](https://buildstats.info/nuget/DT.InsightsToHockey?includePreReleases=true)](https://www.nuget.org/packages/DT.InsightsToHockey/)
+
 Drop-in library to migrate from Xamarin.Insights to HockeyApp with as little changes as possible
 
 Since Xamarin.Insights is coming to end of life, we all need to migrate to HockeyApp.

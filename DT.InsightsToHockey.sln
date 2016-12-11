@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DT.InsightsToHockey.iOS", "DT.InsightsToHockey.iOS\DT.InsightsToHockey.iOS.csproj", "{D4653B3D-612C-4BEE-87AA-F8513A982175}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20BA1A09-AF86-47FF-BB50-617BF640F826}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		DT.InsightsToHockey.nuspec = DT.InsightsToHockey.nuspec
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DT.InsightsToHockey", "DT.InsightsToHockey\DT.InsightsToHockey.csproj", "{97177E8D-5CF4-4C55-9797-222B4E05F942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DT.InsightsToHockey.Android", "DT.InsightsToHockey.Android\DT.InsightsToHockey.Android.csproj", "{48FB32FF-8EA8-4768-A045-DA1490F1F955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4653B3D-612C-4BEE-87AA-F8513A982175}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D4653B3D-612C-4BEE-87AA-F8513A982175}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D4653B3D-612C-4BEE-87AA-F8513A982175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4653B3D-612C-4BEE-87AA-F8513A982175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97177E8D-5CF4-4C55-9797-222B4E05F942}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{97177E8D-5CF4-4C55-9797-222B4E05F942}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{97177E8D-5CF4-4C55-9797-222B4E05F942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97177E8D-5CF4-4C55-9797-222B4E05F942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FB32FF-8EA8-4768-A045-DA1490F1F955}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{48FB32FF-8EA8-4768-A045-DA1490F1F955}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{48FB32FF-8EA8-4768-A045-DA1490F1F955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FB32FF-8EA8-4768-A045-DA1490F1F955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

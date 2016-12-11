@@ -6,8 +6,8 @@
     <ProjectGuid>{48FB32FF-8EA8-4768-A045-DA1490F1F955}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>DT.InsightsToHockey.Android</RootNamespace>
-    <AssemblyName>DT.InsightsToHockey.Android</AssemblyName>
+    <RootNamespace>DT.InsightsToHockey</RootNamespace>
+    <AssemblyName>DT.InsightsToHockey</AssemblyName>
     <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>

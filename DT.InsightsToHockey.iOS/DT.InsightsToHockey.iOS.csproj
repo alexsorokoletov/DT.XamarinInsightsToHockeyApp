@@ -6,8 +6,8 @@
     <ProjectGuid>{D4653B3D-612C-4BEE-87AA-F8513A982175}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>DT.InsightsToHockey.iOS</RootNamespace>
-    <AssemblyName>DT.InsightsToHockey.iOS</AssemblyName>
+    <RootNamespace>DT.InsightsToHockey</RootNamespace>
+    <AssemblyName>DT.InsightsToHockey</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -31,7 +31,7 @@
     <MtouchTlsProvider></MtouchTlsProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <DebugType>pdbonly</DebugType>
+    <DebugType></DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release</OutputPath>
     <DefineConstants></DefineConstants>

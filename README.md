@@ -11,7 +11,9 @@ Not supported APIs are marked as `[Obsolete]`.
 1. Remove NuGet Package `Xamarin.Insights` from your project and other references to `Xamarin.Insights` SDK.
 2. Add NuGet package: `Install-Package DT.InsightsToHockey`.
 3. Change Insights' API key to HockeyApp API key.
-4. That's it.
+4. Some platforms might require additional steps (for iOS you have to add NSPhotoLibraryUsageDescription key, etc).
+[Read details here.](https://support.hockeyapp.net/kb/client-integration-cross-platform/how-to-integrate-hockeyapp-with-xamarin)
+5. That's it.
 
 ### Disclaimer
 
